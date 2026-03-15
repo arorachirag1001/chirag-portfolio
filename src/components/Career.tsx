@@ -15,43 +15,43 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
+                <h4>Senior Software Engineer</h4>
+                <h5>PayPal · San Jose, CA</h5>
               </div>
-              <h3>2020</h3>
+              <h3>2025 - Present</h3>
             </div>
             <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
+              Designed and built onboarding APIs in Java and Spring Boot,
+              integrated KYC flows across 6+ services, and automated testing
+              with 95-100% coverage to keep quality and compliance high.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
+                <h4>Software Engineer (Contract)</h4>
+                <h5>Walmart Global Tech · Sunnyvale, CA</h5>
               </div>
-              <h3>2021</h3>
+              <h3>2024 - 2025</h3>
             </div>
             <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
+              Developed backend APIs for the Sellers Chargeback feature,
+              improving transaction efficiency and compliance while integrating
+              third-party services and strengthening CI/CD quality.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
+                <h4>Software Engineer</h4>
+                <h5>Ericsson · Noida, India</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2016 - 2022</h3>
             </div>
             <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              Engineered distributed microservices for 11M+ subscribers,
+              improved incident response by 40%, and delivered CI/CD and
+              Kafka-based messaging at scale.
             </p>
           </div>
         </div>

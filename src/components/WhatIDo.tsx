@@ -87,22 +87,23 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>FRONTEND</h3>
-              <h4>Building Interactive UIs</h4>
+              <h3>BACKEND SYSTEMS</h3>
+              <h4>Designing scalable, secure APIs</h4>
               <p>
-                Crafting performant, responsive interfaces with modern frameworks.
-                From SPAs to micro-frontends, I deliver pixel-perfect experiences.
+                Building high-throughput services, microservices, and data flows
+                that power mission-critical products with strong reliability and
+                security.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">React.js</div>
-                <div className="what-tags">Angular</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">TypeScript</div>
-                <div className="what-tags">JavaScript</div>
-                <div className="what-tags">Material UI</div>
-                <div className="what-tags">HTML5</div>
-                <div className="what-tags">CSS3</div>
+                <div className="what-tags">Java</div>
+                <div className="what-tags">Spring Boot</div>
+                <div className="what-tags">Microservices</div>
+                <div className="what-tags">RESTful APIs</div>
+                <div className="what-tags">Kafka</div>
+                <div className="what-tags">DynamoDB</div>
+                <div className="what-tags">SQL</div>
+                <div className="what-tags">Kubernetes</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -126,22 +127,22 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>BACKEND</h3>
-              <h4>Scalable Server Architecture</h4>
+              <h3>CLOUD & QUALITY</h3>
+              <h4>CI/CD, testing, and reliability</h4>
               <p>
-                Designing robust APIs and microservices. From CMS platforms to
-                complex business logic, I build backends that scale.
+                Building cloud-ready delivery pipelines and testing automation
+                to ensure production-grade quality, speed, and compliance.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">NestJS</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">MongoDB</div>
-                <div className="what-tags">PostgreSQL</div>
-                <div className="what-tags">REST APIs</div>
-                <div className="what-tags">Microservices</div>
-                <div className="what-tags">Python</div>
+                <div className="what-tags">AWS</div>
+                <div className="what-tags">GCP</div>
+                <div className="what-tags">CI/CD</div>
+                <div className="what-tags">Jenkins</div>
+                <div className="what-tags">Rest Assured</div>
+                <div className="what-tags">TestNG</div>
+                <div className="what-tags">Cucumber</div>
+                <div className="what-tags">Git</div>
               </div>
               <div className="what-arrow"></div>
             </div>
